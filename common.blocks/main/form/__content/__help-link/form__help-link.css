@@ -1,0 +1,6 @@
+.form__help-link {
+  position: absolute;
+  top: -1.4em;
+  right: 0;
+  font-size: calc(var(--text-size) - 2px);
+}

@@ -1,0 +1,5 @@
+.main__underline {
+  width: 100%;
+  height: 1px;
+  background: var(--grey-color);
+}

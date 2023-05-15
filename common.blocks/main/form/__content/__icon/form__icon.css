@@ -1,0 +1,6 @@
+.form__icon {
+  position: absolute;
+  top: calc(50% - var(--text-size) / 2);
+  right: .6em;
+  cursor: pointer;
+}
