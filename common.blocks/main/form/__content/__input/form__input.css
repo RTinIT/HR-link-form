@@ -1,0 +1,10 @@
+.form__input {
+  width: 100%;
+  border: none;
+  padding: .6em;
+  outline: none;
+  color: var(--dark-color);
+  background: var(--light-grey-color);
+  border-bottom: 1px solid var(--grey-color);
+  font-size: var(--text-size);
+}
