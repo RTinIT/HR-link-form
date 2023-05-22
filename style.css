@@ -1,21 +1,21 @@
 @import url("./common.blocks/main/main.css");
 @import url("./common.blocks/main/header/header.css");
-@import url("./common.blocks/main/header/__title/header__title.css");
-@import url("./common.blocks/main/header/__banner/header__banner.css");
+@import url("./common.blocks/main/header/title/header__title.css");
+@import url("./common.blocks/main/header/banner/header__banner.css");
 @import url("./common.blocks/main/button/button.css");
-@import url("./common.blocks/main/__underline/main__underline.css");
+@import url("./common.blocks/main/underline/main__underline.css");
 
 @import url("./common.blocks/main/form/form.css");
-@import url("./common.blocks/main/form/__content/form__content.css");
-@import url("./common.blocks/main/form/__content/__input/form__input.css");
-@import url("./common.blocks/main/form/__content/__label/form__label.css");
-@import url("./common.blocks/main/form/__content/__underline/form__underline.css");
-@import url("./common.blocks/main/form/__content/__help-link/form__help-link.css");
-@import url("./common.blocks/main/form/__content/__button/form__button.css");
-@import url("./common.blocks/main/form/__content/__icon/form__icon.css");
+@import url("./common.blocks/main/form/content/form__content.css");
+@import url("./common.blocks/main/form/content/input/form__input.css");
+@import url("./common.blocks/main/form/content/label/form__label.css");
+@import url("./common.blocks/main/form/content/underline/form__underline.css");
+@import url("./common.blocks/main/form/content/help-link/form__help-link.css");
+@import url("./common.blocks/main/form/content/button/form__button.css");
+@import url("./common.blocks/main/form/content/icon/form__icon.css");
 
 @import url("./common.blocks/main/footer/footer.css");
-@import url("./common.blocks/main/footer/__text/footer__text.css");
+@import url("./common.blocks/main/footer/text/footer__text.css");
 
 :root {
   --text-size: 1rem;
